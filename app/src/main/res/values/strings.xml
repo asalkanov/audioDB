@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AudioDB</string>
+
+    <string name="API_key">AFAAF</string>
+    <string name="username">riteh</string>
+
+    <string name="search_artist">Search artist&#8230;</string>
+    <string name="album_title">%1$s • (%2$s) </string>
+    <string name="track_number_title">%1$s. %2$s </string>
+    <string name="rate_button">Rate!</string>
+    <string name="rate_submitted">Track rated!</string>
+    <string name="rate_updated">Track updated!</string>
+    <string name="track_deleted">Track deleted!</string>
+    <string name="artist_not_found">Artist not found.</string>
+    <string name="rate_no_item_found">Track not found.</string>
+    <string name="rate_missing_input">Track not selected.</string>
+    <string name="no_internet_title">No network!</string>
+    <string name="no_internet_message">Please check your network connection.</string>
+    <string name="positive_button">Try again</string>
+    <string name="ok_button">OK</string>
+</resources>
+
+<!-- Register at https://www.theaudiodb.com/ for API key -->
